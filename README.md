@@ -29,11 +29,15 @@
             <td>Italic Green <br><img src="trail2/i_green.png" alt="" height="330px" width="500px"></td>
         </tr>
         <tr>
-            <td> <br><img src="https://via.placeholder.com/330x500/ff7f7f/333333?text=No Screenshot" alt="no pic" height="330px" width="500px"></td>
+            <td> <br><img src="https://via.placeholder.com/330x500/ff7f7f/333333?text=No Screenshot Trail1" alt="no pic" height="330px" width="500px"></td>
             <td>Italic Red <br><img src="trail2/i_red.png" alt="" height="330px" width="500px"></td>
         </tr>
         <tr>
-            <td> <br><img src="https://via.placeholder.com/330x500/ff7f7f/333333?text=No Screenshot" alt="no pic" height="330px" width="500px"></td>
+            <td> <br><img src="https://via.placeholder.com/330x500/ff7f7f/333333?text=No Screenshot Trail1" alt="no pic" height="330px" width="500px"></td>
             <td>bold italic green <br><img src="trail2/bi_green.png" alt="" height="330px" width="500px"></td>
+        </tr>
+        <tr>
+            <td> <br><img src="https://via.placeholder.com/330x500/ff7f7f/333333?text=No Screenshot Trail1" alt="no pic" height="330px" width="500px"></td>
+            <td>bold italic green <br><img src="trail2/qdebug.png" alt="" height="330px" width="500px"></td>
         </tr>
     </table>
