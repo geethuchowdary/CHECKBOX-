@@ -1,4 +1,20 @@
 # CHECKBOX
+### section 1
+<table>
+        <tr>
+                <th>Initial</th>
+                <th>Checked</th>
+                <th>Unchecked</th>
+        </tr>     
+        <tr>
+                <td><img src="/Checkbox1 Op/Initial.png"></td>
+                <td><img src="/Checkbox1 Op/checked.png"></td>
+                <td><img src="/Checkbox1 Op/uc.png"></td>
+        </tr>
+
+</table>
+
+# Trail one and two
 <table>
         <tr>
             <th>Trail1</th>
